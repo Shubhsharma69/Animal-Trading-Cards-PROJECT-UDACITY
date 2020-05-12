@@ -1,0 +1,57 @@
+/* add your CSS here */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+  color:white;
+}
+
+.outer-box {
+border: 1px solid rgb(218, 204, 204);
+box-shadow: 8px 8px 4px rgb(199, 196, 202);
+width: 316px;
+background-color:#222D32;
+align:center;	
+}
+
+
+.box {
+border: 1px solid rgb(218, 204, 204);
+width: 284px;
+padding: 8px;
+margin: 8px;
+  background-color:#1D1F20;
+}
+
+.dog{
+font-size:40px;
+margin: 16px;
+  color:#F4B400;
+}
+
+.image {
+width: 300px;
+height: 200px;
+padding: 8px;
+}
+
+.fact {
+	font-style: italic;
+  color:#eef490;
+}
+
+.quick-facts {
+	list-style: none;
+}
+
+.fact-list-item {
+	margin-left: -40px;
+}
+
+.fact-title {
+	font-weight: bold;
+  color:#fc3a81;
+}
+
+#description {
+  color:#c2ede0;
+}
